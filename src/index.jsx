@@ -1,8 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import BabelTransformer from './components/babel-transformer';
+
+const Hello = () => {
+
+    return (
+        <div>Hello World!</div>
+    )
+}
 
 ReactDOM.render(
-    <BabelTransformer />,
+    <Hello />,
     document.getElementById('app')
-);
+)
