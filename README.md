@@ -1,6 +1,6 @@
 # Hello World
 
-Example webpack-configuration code + set-up learned from the [React from the Ground up Section 9, Lecture 30](https://www.udemy.com/reactjs-from-the-ground-up)
+Example webpack-configuration code + set-up learned from the [React from the Ground up Section 9, Lecture 28](https://www.udemy.com/reactjs-from-the-ground-up)
 
 
 ## Usage
