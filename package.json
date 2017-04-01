@@ -1,5 +1,5 @@
 {
-  "name": "react-beginner-using-node",
+  "name": "react-node-hello-world",
   "version": "1.0.0",
   "description": "Beginner level codes for creating react project with node js",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ronizzle/react-beginner-using-node.git"
+    "url": "git+https://github.com/ronizzle/react-node-hello-world.git"
   },
   "keywords": [
     "node",
@@ -18,9 +18,9 @@
   "author": "Roniel Bernas <roniel44@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ronizzle/react-beginner-using-node/issues"
+    "url": "https://github.com/ronizzle/react-node-hello-world/issues"
   },
-  "homepage": "https://github.com/ronizzle/react-beginner-using-node#readme",
+  "homepage": "https://github.com/ronizzle/react-node-hello-world#readme",
   "dependencies": {
     "babel-core": "^6.24.0",
     "babel-loader": "^6.4.1",
@@ -31,5 +31,6 @@
     "react-dom": "^15.4.2",
     "webpack": "^2.3.2",
     "webpack-dev-server": "^2.4.2"
-  }
+  },
+  "devDependencies": {}
 }
